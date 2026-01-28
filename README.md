@@ -68,6 +68,18 @@ Key characteristics:
 
 Output table:
 - gold.fact_asset_performance
+---
+
+## 📊 Analytics & Visualization
+
+The Gold layer is consumed directly by a Power BI report built in Microsoft Fabric.
+
+The dashboard provides:
+- Asset price evolution over time
+- Short and medium-term moving averages
+- Daily performance metrics
+
+This layer demonstrates how curated, analytics-ready data can be seamlessly consumed for decision-making, completing the end-to-end data platform.
 
 ---
 
